@@ -24,4 +24,4 @@ Your submission should include the following:
 * Code to play the game
 * Brief description of team contributions in the README
 
-See '''example-diagram.png''' for an example diagram of map; room 1 leads to room 2. Room 2 leads to 1, 3, or 4. Room 3 leads to room 2. Room 4 leads to rooms 2 and 5.
+See ```example-diagram.png``` for an example diagram of map; room 1 leads to room 2. Room 2 leads to 1, 3, or 4. Room 3 leads to room 2. Room 4 leads to rooms 2 and 5.
